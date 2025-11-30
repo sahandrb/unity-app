@@ -13,7 +13,7 @@ export default defineConfig(({ mode }) => {
 
     plugins: [react()],
 
-    // ⚠️ مهم: نام ریپو همین است → unity-
+    // *** این مهم‌ترین قسمت است ***
     base: '/unity-/',
 
     define: {
